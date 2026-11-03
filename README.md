@@ -30,20 +30,34 @@ Manage real estate properties and customer information through a clean, responsi
 
 ## 📸 Screenshots
 
-<!-- Replace the image paths below with your actual screenshot paths -->
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="80%" alt="Dashboard Screenshot" />
-</p>
-
-<p align="center">
-  <img src="screenshots/properties.png" width="80%" alt="Properties Screenshot" />
-</p>
-
-<p align="center">
-  <img src="screenshots/customers.png" width="80%" alt="Customers Screenshot" />
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>Dashboard</strong><br>
+      <img src="screenshots/dashboard.png" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Properties</strong><br>
+      <img src="screenshots/properties.png" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Customers</strong><br>
+      <img src="screenshots/customers.png" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Add Property</strong><br>
+      <img src="screenshots/add_properties.png" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Add Customer</strong><br>
+      <img src="screenshots/add_customers.png" width="50%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📖 About the Project
