@@ -1,16 +1,124 @@
-# estate_management
+# Estate Management
 
-A new Flutter project.
+### A Modern Property & Customer Management Application Built with Flutter
 
-## Getting Started
+Manage real estate properties and customer information through a clean, responsive web application.
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="https://7c54dbeb.estate-management.pages.dev">
+    <strong>🚀 Live Demo</strong>
+  </a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Estate Management
+
+### A Modern Property & Customer Management Application Built with Flutter
+
+Manage real estate properties and customer information through a clean, responsive web application.
+
+<p align="center">
+  <a href="https://7c54dbeb.estate-management.pages.dev">
+    <strong>🚀 Live Demo</strong>
+  </a>
+</p>
+
+---
+
+## 📸 Screenshots
+
+<!-- Replace the image paths below with your actual screenshot paths -->
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="80%" alt="Dashboard Screenshot" />
+</p>
+
+<p align="center">
+  <img src="screenshots/properties.png" width="80%" alt="Properties Screenshot" />
+</p>
+
+<p align="center">
+  <img src="screenshots/customers.png" width="80%" alt="Customers Screenshot" />
+</p>
+
+---
+
+## 📖 About the Project
+
+Estate Management is a web-based application developed with Flutter to simplify the management of real estate properties and customer information.
+
+The project focuses on providing an organized and user-friendly experience while using browser-based storage to keep application data available locally.
+
+It was developed as a practical project to demonstrate Flutter web development, local data persistence, and responsive user interface implementation.
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Flutter | User interface and web application development |
+| Dart | Programming language |
+| IndexedDB | Browser-based local data storage |
+| idb_shim | IndexedDB integration |
+| image_picker | Image selection |
+
+## ⚙️ Technical Highlights
+
+- **Flutter Web Development:** Built using Flutter and Dart.
+- **Local Data Persistence:** Uses IndexedDB to store application data in the browser.
+- **Image Selection:** Supports selecting images using the Image Picker package.
+- **Responsive Interface:** Designed to support different screen sizes, including mobile and desktop.
+- **Browser-Based Application:** Accessible through a web browser without requiring a traditional desktop installation.
+
+## 👨‍💻 Author
+
+**Pouya Aghaghasemi**
+
+[GitHub Profile](https://github.com/pouya-aghaghasemi)
+
+---
+
+<p align="center">
+  Developed with ❤️ using Flutter & Dart
+</p>
+---
+
+## 📖 About the Project
+
+Estate Management is a web-based application developed with Flutter to simplify the management of real estate properties and customer information.
+
+The project focuses on providing an organized and user-friendly experience while using browser-based storage to keep application data available locally.
+
+It was developed as a practical project to demonstrate Flutter web development, local data persistence, and responsive user interface implementation.
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| Flutter | User interface and web application development |
+| Dart | Programming language |
+| IndexedDB | Browser-based local data storage |
+| idb_shim | IndexedDB integration |
+| image_picker | Image selection |
+
+## ⚙️ Technical Highlights
+
+- **Flutter Web Development:** Built using Flutter and Dart.
+- **Local Data Persistence:** Uses IndexedDB to store application data in the browser.
+- **Image Selection:** Supports selecting images using the Image Picker package.
+- **Responsive Interface:** Designed to support different screen sizes, including mobile and desktop.
+- **Browser-Based Application:** Accessible through a web browser without requiring a traditional desktop installation.
+
+## 👨‍💻 Author
+
+**Pouya Aghaghasemi**
+
+[GitHub Profile](https://github.com/pouya-aghaghasemi)
+
+---
+
+<p align="center">
+  Developed with ❤️ using Flutter & Dart
+</p>
