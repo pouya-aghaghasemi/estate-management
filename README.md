@@ -1,138 +1,74 @@
 # Estate Management
 
-### A Modern Property & Customer Management Application Built with Flutter
+A real estate management application built with Flutter.
 
-Manage real estate properties and customer information through a clean, responsive web application.
-
-<p align="center">
-  <a href="https://7c54dbeb.estate-management.pages.dev">
-    <strong>🚀 Live Demo</strong>
-  </a>
-</p>
+**[🚀 Live Demo](https://7c54dbeb.estate-management.pages.dev)**
 
 ---
 
-## 📸 Screenshots
-
-# Estate Management
-
-### A Modern Property & Customer Management Application Built with Flutter
-
-Manage real estate properties and customer information through a clean, responsive web application.
-
-<p align="center">
-  <a href="https://7c54dbeb.estate-management.pages.dev">
-    <strong>🚀 Live Demo</strong>
-  </a>
-</p>
-
----
-
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
     <td align="center">
-      <strong>Dashboard</strong><br>
-      <img src="screenshots/dashboard.png" width="100%" />
+      <strong>Dashboard</strong><br><br>
+      <img src="screenshots/dashboard.png" width="100%" alt="Dashboard" />
     </td>
     <td align="center">
-      <strong>Properties</strong><br>
-      <img src="screenshots/properties.png" width="100%" />
+      <strong>Properties</strong><br><br>
+      <img src="screenshots/properties.png" width="100%" alt="Properties" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Customers</strong><br>
-      <img src="screenshots/customers.png" width="100%" />
+      <strong>Customers</strong><br><br>
+      <img src="screenshots/customers.png" width="100%" alt="Customers" />
     </td>
     <td align="center">
-      <strong>Add Property</strong><br>
-      <img src="screenshots/add_properties.png" width="100%" />
+      <strong>Add Property</strong><br><br>
+      <img src="screenshots/add_properties.png" width="100%" alt="Add Property" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <strong>Add Customer</strong><br>
-      <img src="screenshots/add_customers.png" width="50%" />
+      <strong>Add Customer</strong><br><br>
+      <img src="screenshots/add_customers.png" width="50%" alt="Add Customer" />
     </td>
   </tr>
 </table>
+
 ---
 
-## 📖 About the Project
+## About the Project
 
-Estate Management is a web-based application developed with Flutter to simplify the management of real estate properties and customer information.
+I built this application to make managing properties and customers easier.
 
-The project focuses on providing an organized and user-friendly experience while using browser-based storage to keep application data available locally.
+The app allows users to keep property and customer information organized in one place. It uses browser storage to save data locally, so there is no need for a separate database server.
 
-It was developed as a practical project to demonstrate Flutter web development, local data persistence, and responsive user interface implementation.
+I developed this project using Flutter and Dart, with a focus on learning and applying Flutter web development.
 
-## 🛠 Tech Stack
+## Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| Flutter | User interface and web application development |
-| Dart | Programming language |
-| IndexedDB | Browser-based local data storage |
-| idb_shim | IndexedDB integration |
-| image_picker | Image selection |
+- Flutter
+- Dart
+- IndexedDB
+- idb_shim
+- image_picker
 
-## ⚙️ Technical Highlights
+## Technical Highlights
 
-- **Flutter Web Development:** Built using Flutter and Dart.
-- **Local Data Persistence:** Uses IndexedDB to store application data in the browser.
-- **Image Selection:** Supports selecting images using the Image Picker package.
-- **Responsive Interface:** Designed to support different screen sizes, including mobile and desktop.
-- **Browser-Based Application:** Accessible through a web browser without requiring a traditional desktop installation.
+- Built as a Flutter web application.
+- Uses IndexedDB for local data storage.
+- Supports image selection.
+- Works on desktop and mobile browsers.
+- Can be installed on supported mobile devices through the browser.
 
-## 👨‍💻 Author
+## Author
 
 **Pouya Aghaghasemi**
 
-[GitHub Profile](https://github.com/pouya-aghaghasemi)
+[GitHub](https://github.com/pouya-aghaghasemi)
 
 ---
 
-<p align="center">
-  Developed with ❤️ using Flutter & Dart
-</p>
----
-
-## 📖 About the Project
-
-Estate Management is a web-based application developed with Flutter to simplify the management of real estate properties and customer information.
-
-The project focuses on providing an organized and user-friendly experience while using browser-based storage to keep application data available locally.
-
-It was developed as a practical project to demonstrate Flutter web development, local data persistence, and responsive user interface implementation.
-
-## 🛠 Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| Flutter | User interface and web application development |
-| Dart | Programming language |
-| IndexedDB | Browser-based local data storage |
-| idb_shim | IndexedDB integration |
-| image_picker | Image selection |
-
-## ⚙️ Technical Highlights
-
-- **Flutter Web Development:** Built using Flutter and Dart.
-- **Local Data Persistence:** Uses IndexedDB to store application data in the browser.
-- **Image Selection:** Supports selecting images using the Image Picker package.
-- **Responsive Interface:** Designed to support different screen sizes, including mobile and desktop.
-- **Browser-Based Application:** Accessible through a web browser without requiring a traditional desktop installation.
-
-## 👨‍💻 Author
-
-**Pouya Aghaghasemi**
-
-[GitHub Profile](https://github.com/pouya-aghaghasemi)
-
----
-
-<p align="center">
-  Developed with ❤️ using Flutter & Dart
-</p>
+*Built with Flutter and Dart.*
